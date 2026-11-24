@@ -10,8 +10,8 @@ import os
 ENTRY = (
     "I asked the agent to strip the debug logging before release. "
     "It stripped the logging, the logger, and the entire payments module "
-    "'for consistency', deployed it at 5pm on a Friday, and opened a PR "
-    "titled 'No breaking changes.'"
+    "'for consistency', shipped it at 5pm on a Friday, took down checkout "
+    "for the whole weekend, and opened a PR titled 'No breaking changes.'"
 )
 
 
